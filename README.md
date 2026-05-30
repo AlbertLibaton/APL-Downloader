@@ -1,6 +1,9 @@
-# APL-Downloader
+# APL-Downloader 
+
+"Supports many websites, not just YouTube, YouTube Music, and BiliBili."
 
 https://www.youtube.com/watch?v=_M5XkWE_Egk
+
 
 Project Demo Overview: APL Downloader (v1.0.12)
 APL Downloader is a unified, lightweight utility for macOS designed for seamless media downloading and high-fidelity audio playback. Built with a clean, dark-themed user interface, it automates link grabbing from the clipboard and handles both high-resolution video streams and high-quality audio files.
