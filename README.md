@@ -2,6 +2,8 @@
 
 The application uses a Python UI with a backend written in C and C++
 
+The application is currently private, with plans for a future public release
+
 "Supports many websites, not just YouTube, YouTube Music, and BiliBili."
 
 https://www.youtube.com/watch?v=_M5XkWE_Egk
