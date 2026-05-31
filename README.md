@@ -1,5 +1,7 @@
 # APL-Downloader 
 
+The application uses a Python UI with a backend written in C and C++
+
 "Supports many websites, not just YouTube, YouTube Music, and BiliBili."
 
 https://www.youtube.com/watch?v=_M5XkWE_Egk
